@@ -3,7 +3,7 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero">
         <div class="hero-container" data-aos="fade-up">
-            <h1>Welcome to Remember</h1>
+            <h1>Welcome</h1>
             <h2>We are team of talanted designers making websites with Bootstrap</h2>
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
         </div>
@@ -51,7 +51,7 @@
         </section><!-- End About Section -->
 
         <!-- ======= Why Us Section ======= -->
-        <section id="why-us" class="why-us">
+       <!-- <section id="why-us" class="why-us">
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-in">
@@ -86,10 +86,31 @@
                         </div>
                     </div>
 
+                    <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
+                        <div class="box">
+                            <span>04</span>
+                            <h4> Ad ad velit qui</h4>
+                            <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
+                        <div class="box">
+                            <span>05</span>
+                            <h4> Ad ad velit qui</h4>
+                            <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
+                        <div class="box">
+                            <span>06</span>
+                            <h4> Ad ad velit qui</h4>
+                            <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+                        </div>
+                    </div>
                 </div>
 
             </div>
-        </section><!-- End Why Us Section -->
+        </section> End Why Us Section -->
 
         <!-- ======= Counts Section ======= -->
         <section id="counts" class="counts">
@@ -386,7 +407,7 @@
         </section><!-- End Testimonials Section -->
 
         <!-- ======= Pricing Section ======= -->
-        <section id="pricing" class="pricing">
+   <!--     <section id="pricing" class="pricing">
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-in">
@@ -452,7 +473,7 @@
                 </div>
 
             </div>
-        </section><!-- End Pricing Section -->
+        </section> End Pricing Section -->
 
         <!-- ======= F.A.Q Section ======= -->
         <section id="faq" class="faq">

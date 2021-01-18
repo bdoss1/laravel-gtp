@@ -13,9 +13,9 @@ use App\Http\Controllers\PostController;
 |
 */
 
-//Home
+// Redesigned Homepage demo.blade.php
 Route::get('/', function () {
-    return view('welcome');
+    return view('demo');
 });
 
 //Test lives at localhost/test
@@ -36,11 +36,13 @@ Route::get('/demo', function () {
     return view('demo');
 });
 
-Route::get('/baron', function () {
-    return view('baron');
-});
-
-
 Route::get('/details', function () {
     return view('details');
 });
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::get('/contact', [App\Http\Controllers\ContactUsFormController::class, 'createForm']);
+Route::post('/contact', [App\Http\Controllers\ContactUsFormController::class, 'ContactUsForm'])->name('contact.store');
