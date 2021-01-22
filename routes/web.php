@@ -14,7 +14,7 @@ use App\Http\Controllers\PostController;
 */
 
 //Home
-Route::get('/', function () {cd ..
+Route::get('/', function () {
     return view('demo');
 });
 
