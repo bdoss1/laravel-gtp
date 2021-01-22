@@ -8,26 +8,26 @@
                 <li class="drop-down"><a href="/display_systems">Display Systems</a>
                     <ul>
                         <li><a href="/deluxe">Deluxe Displays</a></li>
-                        <li><a href="#">Value Grid Plus Displays</a></li>
-                        <li><a href="#">Value Grid Displays</a></li>
+                        <li><a href="/value_grid_plus">Value Grid Plus Displays</a></li>
+                        <li><a href="/value_grid">Value Grid Displays</a></li>
                         <li><a href="#">Lock & Load Displays</a></li>
-                        <li><a href="#">Cooler Displays</a></li>
-                        <li><a href="#">Island Displays</a></li>
+                        <li><a href="/coolers">Cooler Displays</a></li>
+                        <li><a href="/islands">Island Displays</a></li>
                     </ul>
                 </li>
-                <li class="drop-down"><a href="/forms">Design Forms</a>
+                <li class="drop-down"><a href="#">Design Forms</a>
                     <ul>
-                        <li><a href="#">Quick Template Form</a></li>
-                        <li><a href="#">Micro Market Checklist</a></li>
+                        <li><a href="/forms/quick_template">Quick Template Form</a></li>
+                        <li><a href="/forms/micro_market">Micro Market Checklist</a></li>
                     </ul>
                 </li>
-                <li class="drop-down"><a href="/vending_services">Vending Services</a>
+                <li class="drop-down"><a href="#">Vending Services</a>
                      <ul>
-                         <li><a href="#">TUFFRONTS &reg; </a></li>
-                         <li><a href="#">Custom Vending Graphics</a></li>
+                         <li><a href="/tuffronts">TUFFRONTS &reg; </a></li>
+                         <li><a href="/custom">Custom Vending Graphics</a></li>
                      </ul>
                  </li>
-                <li class="drop-down"><a href="">Gallery</a>
+                <li class="drop-down"><a href="#">Gallery</a>
                     <ul>
                         <li><a href="/gallery_deluxe">Deluxe Display Systems</a></li>
                         <li><a href="/gallery_value">Value Grid Display Systems</a></li>

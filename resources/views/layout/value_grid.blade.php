@@ -4,7 +4,7 @@
     <section class="py-5">
         <div class="container">
             <div class="row">
-              <div class="col-lg-6">
+                <div class="col-lg-6">
                     <img class="img-fluid" src="{{ url('/img/displays/value_grid_plus/valuegirdPlus.jpg') }}" alt="Value Grid Plus">
                 </div>
 
@@ -17,34 +17,22 @@
                 </div>
             </div>
             <div class="download">
-               <center>
-                   <a href="https://www.graphicsthatpop.com/valueplus.pdf" class="download-link" target="_blank"/>Click Here to download our Deluxe instructions to assist in your next install</a>
-               </center>
+                <center>
+                    <a href="https://www.graphicsthatpop.com/valueplus.pdf" class="download-link" target="_blank"/>Click Here to download our Deluxe instructions to assist in your next install</a>
+                </center>
             </div>
         </div>
 
         <div class="container">
             <div class="row">
                 <div class="page-head">Additional Options:</>
-             <ul class="page-text">
-                        <li>Product Pushers     $125 QTY 25</li>
-                         <li>Graphic Side Panels      $75 per side</li>
-                        <li>Custom Shaped Headers      $250 per market</li>
-                        <li>Back Access Doors      $175 per door</li>
-                    </ul>
+                <ul class="page-text">
+                    <li>Product Pushers     $125 QTY 25</li>
+                    <li>Graphic Side Panels      $75 per side</li>
+                    <li>Custom Shaped Headers      $250 per market</li>
+                    <li>Back Access Doors      $175 per door</li>
+                </ul>
 
-            </div>
-        </div>
-        <!--Display Page Bottom -->
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <img class="img-fluid" src="{{ url('/img/displays/value_grid/Bimbo-wire.jpg') }}" alt="Value Grid Plus">
-                </div>
-                <div class="col-lg-6">
-                    <p class="page-text-small">A fir down, also known as a soffit is when you have a height restriction. The height of the Micro Market panels are cut down to the size of the fir down of soffit. The front header extends above and in front of the soffit</p>
-                    <img class="img-fluid" src="{{ url('/img/displays/value_grid/Panels-DIAGRAM.jpg') }}" alt="Value Grid Plus">
-                </div>
             </div>
         </div>
     </section>

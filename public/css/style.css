@@ -23,7 +23,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "MyriadPro-Regular", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -707,23 +707,13 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  /*background: url("../img/blur_bg.jpg") center center no-repeat;*/
     background: #000000;
   color: #fff;
   font-size: 14px;
   position: relative;
 }
 
-#footer::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  background: rgba(15, 15, 15, 0.75);
-  z-index: 1;
-}
+
 
 #footer .footer-top {
   position: relative;
@@ -749,46 +739,6 @@ section {
   padding: 0;
 }
 
-#footer .footer-top .footer-newsletter {
-  text-align: center;
-  font-size: 15px;
-  margin-top: 30px;
-}
-
-#footer .footer-top .footer-newsletter form {
-  background: #fff;
-  padding: 6px 10px;
-  position: relative;
-  border-radius: 50px;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
-  text-align: left;
-}
-
-#footer .footer-top .footer-newsletter form input[type="email"] {
-  border: 0;
-  padding: 4px 8px;
-  width: calc(100% - 100px);
-}
-
-#footer .footer-top .footer-newsletter form input[type="submit"] {
-  position: absolute;
-  top: 0;
-  right: -1px;
-  bottom: 0;
-  border: 0;
-  background: none;
-  font-size: 16px;
-  padding: 0 20px;
-  background: #d1000a;
-  color: #fff;
-  transition: 0.3s;
-  border-radius: 50px;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
-}
-
-#footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: #75a239;
-}
 
 #footer .footer-top .social-links {
   margin-top: 30px;
@@ -816,11 +766,8 @@ section {
 }
 
 #footer .footer-bottom {
-  border-top: 1px solid #282828;
   z-index: 2;
   position: relative;
-  padding-top: 40px;
-  padding-bottom: 40px;
 }
 
 #footer .copyright {
@@ -899,10 +846,31 @@ section {
     font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
 }
 
+.page-text-small {
+    font-size: 12px;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+}
 .btn .btn-secondary .btn-lg  {
     color: #ffffff !important;
 }
 
 .btn-wide {
     width:400px;
+}
+
+a.call-link {
+    color: #ffffff;
+}
+
+a.download-link {
+    color: #000000;
+    font-weight: 600;
+    font-size: 16px;
+}
+.download {
+    padding:2%;
+}
+
+.spacer {
+    padding:3%;
 }

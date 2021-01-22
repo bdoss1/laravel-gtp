@@ -34,9 +34,28 @@ Route::get('/deluxe', function () {
     return view('deluxe');
 });
 
-
 Route::get('/value_grid_plus', function () {
     return view('value_grid_plus');
+});
+
+Route::get('/value_grid', function () {
+    return view('value_grid');
+});
+
+Route::get('/tuffronts', function () {
+    return view('tuffronts');
+});
+
+Route::get('/coolers', function () {
+    return view('coolers');
+});
+
+Route::get('/islands', function () {
+    return view('islands');
+});
+
+Route::get('/custom', function () {
+    return view('custom');
 });
 
 Route::get('/details', function () {
@@ -57,4 +76,20 @@ Route::get('/gallery_value', function () {
 
 Route::get('/gallery_vending', function () {
     return view('gallery_vending');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::get('/custom', function () {
+    return view('custom');
+});
+
+Route::get('/forms/quick_template', function () {
+    return view('quick_template');
+});
+
+Route::get('/forms/micro_market', function () {
+    return view('micro_market');
 });
