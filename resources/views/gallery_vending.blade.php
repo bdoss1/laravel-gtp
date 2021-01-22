@@ -82,17 +82,9 @@
                         <div class="carousel-item">
                             <img class="d-block w-100" src="{{ url('/img/gallery/vending/23-AMIGOS-VENDING-banks.jpg') }}" alt="Second slide">
                         </div>
+
                         <div class="carousel-item">
                             <img class="d-block w-100" src="{{ url('/img/gallery/vending/24-TOYOTA-VENDING-banks.jpg') }}" alt="Third slide">
-                        </div>
-                        <div class="carousel-item">
-                            <img class="d-block w-100" src="{{ url('/img/gallery/vending/25-hp-VENDING-banks.jpg') }}" alt="Third slide">
-                        </div>
-                        <div class="carousel-item">
-                            <img class="d-block w-100" src="{{ url('/img/gallery/vending/26-tmobile-VENDING-banks.jpg') }}" alt="First slide">
-                        </div>
-                        <div class="carousel-item">
-                            <img class="d-block w-100" src="{{ url('/img/gallery/vending/27-ford--VENDING-banks.jpg') }}" alt="Second slide">
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

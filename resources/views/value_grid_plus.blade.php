@@ -12,7 +12,7 @@
                     <p class="page-head2">VALUE GRID PLUS DISPLAY SYSTEM</p>
                     <p class="page-text">Available in 3ft and 4ft Sections 35” Deep and up to 92” Height</p>
                     <p class="page-text">Micro Market display systems are customized to your visual specification. Panels are constructed of plywood with embedded threaded connections, and an exterior plastic clad for durability. Back panels and headers are customized to your desired appearance. Slat wall is mounted above the counter tops. Counter tops are constructed of steel with a durable powder coasted hammer finish. Cabinet doors and bases are constructed out of steel with a durable powder coated finish and then wrapped in 3M vinyl.</p>
-                    <p class="page-text">Shelving is constructed out of steel wire with a durable powder coated finish. Depth of shelving is 19 inches. Shelving comes with product dividers that are adjustable in 1inch increments. Additional pegs and baskets are included for sections above your counter-tops Counter-tops have a depth of 28 inches. </p>
+                    <p class="page-text">Shelving is constructed out of steel wire with a durable powder coated finish. Depth of shelving is <span style="color:red;">19 inches.</span> Shelving comes with product dividers that are adjustable in 1inch increments. Additional pegs and baskets are included for sections above your counter-tops Counter-tops have a depth of <span style="color:red;">28 inches.</span> </p>
                     <p class="page-text">All sections come with stunning vertical lighting. Assembly is fast and easy with our slide in pin connectors. All panels are shipped with all the hardware preassembled. GTP's packaging is excellent and you can rest assured your displays will arrive to your destination without any damages.</p>
                 </div>
             </div>
@@ -42,7 +42,9 @@
                     <img class="img-fluid" src="{{ url('/img/displays/value_grid/Bimbo-wire.jpg') }}" alt="Value Grid Plus">
                 </div>
                 <div class="col-lg-6">
-                    <p class="page-text-small">A fir down, also known as a soffit is when you have a height restriction. The height of the Micro Market panels are cut down to the size of the fir down of soffit. The front header extends above and in front of the soffit</p>
+                    <p class="page-text-small">
+                        A fir down, also known as a soffit is when you have a height restriction. The height of the Micro Market panels is cut down to the size of the fir down or soffit. The front header extends above and in front of the soffit</p>
+                    <p class="page-text-small">$150 per market</p>
                     <img class="img-fluid" src="{{ url('/img/displays/value_grid/Panels-DIAGRAM.jpg') }}" alt="Value Grid Plus">
                 </div>
             </div>

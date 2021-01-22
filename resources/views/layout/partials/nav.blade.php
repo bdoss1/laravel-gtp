@@ -5,7 +5,7 @@
 
         <nav class="nav-menu d-none d-lg-block">
             <ul>
-                <li class="drop-down"><a href="/display_systems">Display Systems</a>
+                <li class="drop-down"><a href="#">Display Systems</a>
                     <ul>
                         <li><a href="/deluxe">Deluxe Displays</a></li>
                         <li><a href="/value_grid_plus">Value Grid Plus Displays</a></li>
@@ -23,7 +23,7 @@
                 </li>
                 <li class="drop-down"><a href="#">Vending Services</a>
                      <ul>
-                         <li><a href="/tuffronts">TUFFRONTS &reg; </a></li>
+                         <li><a href="/tuffronts">TUFFRONTS&reg; </a></li>
                          <li><a href="/custom">Custom Vending Graphics</a></li>
                      </ul>
                  </li>

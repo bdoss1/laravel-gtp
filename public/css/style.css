@@ -833,6 +833,7 @@ section {
     font-weight: 600;
     font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
     padding-top: 24px;
+    line-height: 24px;
 }
 
 .page-head2 {
@@ -841,14 +842,52 @@ section {
     font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
 }
 
+.page-head-lg {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+    padding-top: 12px;
+}
+
 .page-text {
     font-size: 16px;
     font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
 }
 
 .page-text-small {
-    font-size: 12px;
+    font-size: 14px;
     font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+}
+
+.tuff-head {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+    padding-top: 24px;
+    line-height: 20px;
+}
+
+.tuff-text {
+    font-size: 14px;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+}
+
+.tuff-bold {
+    font-size: 16px;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+}
+
+
+.tuff-bold2 {
+    font-size: 24px;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+}
+
+.tuff-img-text{
+    text-align: center;
+    font-weight: 600;
 }
 .btn .btn-secondary .btn-lg  {
     color: #ffffff !important;
@@ -872,5 +911,9 @@ a.download-link {
 }
 
 .spacer {
-    padding:3%;
+    padding:5%;
+}
+.pd-lf {
+    padding-left:5%;
+    width:300px;
 }
