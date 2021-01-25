@@ -10,7 +10,7 @@
                         <li><a href="/deluxe">Deluxe Displays</a></li>
                         <li><a href="/value_grid_plus">Value Grid Plus Displays</a></li>
                         <li><a href="/value_grid">Value Grid Displays</a></li>
-                        <li><a href="#">Lock & Load Displays</a></li>
+                        <li><a href="/lock_and_load">Lock & Load Displays</a></li>
                         <li><a href="/coolers">Cooler Displays</a></li>
                         <li><a href="/islands">Island Displays</a></li>
                     </ul>

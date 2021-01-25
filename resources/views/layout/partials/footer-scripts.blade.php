@@ -2,7 +2,7 @@
 ================================================= -->
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="{{ url('/vendor/jquery/jquery.min.js') }}"></script>
-<script src="{{ url('/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+<script src="{{ url('/vendor/bootstrap/js/bootstrap.js') }}"></script>
 <script src="{{ url('/vendor/jquery.easing/jquery.easing.min.js') }}"></script>
 <script src="{{ url('/vendor/php-email-form/validate.js') }}"></script>
 <script src="{{ url('/vendor/jquery-sticky/jquery.sticky.js') }}"></script>

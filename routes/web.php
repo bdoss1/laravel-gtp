@@ -42,6 +42,10 @@ Route::get('/value_grid', function () {
     return view('value_grid');
 });
 
+Route::get('/lock_and_load', function () {
+    return view('lock_and_load');
+});
+
 Route::get('/tuffronts', function () {
     return view('tuffronts');
 });
