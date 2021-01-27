@@ -39,7 +39,7 @@
         </nav><!-- .nav-menu -->
 
         <div class="header-social-links">
-            <a href="https://www.facebook.com/graphicsthatpop/" target="_blank class="facebook"><i class="icofont-facebook"></i></a>
+            <a href="https://www.facebook.com/graphicsthatpop/" target="_blank" class="facebook"><i class="icofont-facebook"></i></a>
             <a href="https://www.youtube.com/channel/UC9ex5OOIHY81Q92huCHF6DQ" target="_blank" class="youtube"><i class="icofont-youtube"></i></a>
             <a href="https://www.linkedin.com/showcase/micro-markets/" target="_blank" class="linkedin"><i class="icofont-linkedin"></i></a>
         </div>

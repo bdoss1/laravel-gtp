@@ -16,6 +16,7 @@
                     <p class="page-text">All sections come with stunning vertical lighting. Assembly is fast and easy with our slide in pin connectors. All panels are shipped with all the hardware preassembled. GTP's packaging is excellent and you can rest assured your displays will arrive to your destination without any damages.</p>
                 </div>
             </div>
+
             <div class="download">
                 <center>
                     <a href="https://www.graphicsthatpop.com/valueplus.pdf" class="download-link" target="_blank"/>Click Here to download our Deluxe instructions to assist in your next install</a>

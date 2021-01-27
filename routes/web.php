@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PostController;
+use App\Http\Controllers\ContactController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -22,8 +24,10 @@ Route::get('/add-post-form', function () {
     return view('add-post-form');
 });
 
+/*
 Route::get('add-post-form', [PostController::class, 'index']);
 Route::post('store-form', [PostController::class, 'store']);
+*/
 
 // Redesigned Homepage
 Route::get('/demo', function () {
@@ -96,4 +100,8 @@ Route::get('/forms/quick_template', function () {
 
 Route::get('/forms/micro_market', function () {
     return view('micro_market');
+});
+
+Route::get('/vendor/contact_me.php', function () {
+    return view('contact');
 });

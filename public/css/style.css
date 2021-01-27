@@ -733,7 +733,7 @@ section {
 }
 
 #footer .footer-top p {
-  font-size: 15;
+  font-size: 15px;
   font-style: italic;
   margin: 30px 0 0 0;
   padding: 0;
@@ -894,12 +894,53 @@ section {
     font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
 }
 
+
+.lnl-text-small {
+    font-size: 12px;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+}
+
+
+.lnl-text-small-red {
+    font-size: 12px;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    color:red;
+}
+
 .lnl-bold {
-    font-size: 16px;
+    font-size: 14px;
     font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
     font-weight: 800;
     padding-top: 2%;
+}
 
+.lnl-model {
+    font-size: 14px;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    padding-top: 2%;
+}
+
+.lnl-price {
+    font-size: 16px;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+}
+
+
+.lnl-product {
+    font-size: 16px;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    margin:0;
+    padding-top: 2%;
+}
+
+.lnl-dotted{
+    border-bottom: 2px dotted #000000;
+    width: 100%;
 }
 
 .btn .btn-secondary .btn-lg  {
@@ -929,4 +970,35 @@ a.download-link {
 .pd-lf {
     padding-left:5%;
     width:300px;
+}
+
+.call-text {
+    font-size: 20px;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+    font-weight:800;
+    line-height: 44px;
+}
+
+/* Contact page */
+.main-header {
+    font-size: 24px;
+    font-weight:600;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+    margin-bottom: -5px;
+}
+.contact {
+    font-size: 24px;
+    font-weight:600;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+}
+.main-text {
+    font-size: 16px;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+}
+
+.page-tagline{
+    font-size: 14px;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-weight: 600;
 }

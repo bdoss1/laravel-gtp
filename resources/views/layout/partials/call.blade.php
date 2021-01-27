@@ -1,13 +1,14 @@
 <section class="call">
     <div class="container">
-        <div>
-            <div style="float:left; padding-top:1%;">
-                <p class="page-text"><strong>Call Today to talk to a sales rep to get started</strong></p>
+        <div class="row">
+            <div class="col-md-6">
+                <center><p class="call-text">Call Today to talk to a sales rep to get started.</p></center>
             </div>
-            <div style="float:right;">
-                <button type="button" class="btn btn-danger btn-lg btn-wide">
+            <div class="col-md-6">
+                <center><button type="button" class="btn btn-danger btn-lg btn-wide">
                     <a href="tel:972-905-3523" class="call-link">972-905-3523</a>
-                </button>
+                    </button>
+                </center>
             </div>
         </div>
     </div>
